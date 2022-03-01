@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prod_start": "cross-env NODE_ENV=production nodemon index.js"
+    "prod_start": "NODE_ENV=production nodemon index.js"
   },
   "keywords": [
     "roomy"
