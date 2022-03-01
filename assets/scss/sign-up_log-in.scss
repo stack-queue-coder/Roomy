@@ -1,0 +1,140 @@
+@import '../scss/var';
+@import '../scss/vendor';
+@import '../scss/mixin';
+
+
+.sign_up{
+
+    margin: 0%;
+    padding: 0%;
+    background-color: $main-color;
+
+    & .main_div{
+       @include content_center('row');
+        height: 100vh;
+        // background-color: black;
+
+        & .signup_form{
+            width : 80%;
+            border: none;
+            border-top: 5px solid $primary-color;
+            background: linear-gradient(to right, rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)) $main-color;
+            color: $text-color;
+
+            & p{
+                font-weight: bold;
+                font-size: 1.5em;
+            }
+
+            & .myform{
+                padding: 0 25px 0 25px;
+
+                & .form-control{
+                    border: 1px solid $primary-color;
+                    border-radius: 0.2rem;
+                    color:$text-color;
+                    // background-color: $main-color;
+                    background: linear-gradient(to right, rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)) $main-color;
+
+                    margin-bottom:2rem;
+                    letter-spacing: 0.1rem;
+                }
+
+                & .form-control:focus{
+                    color:$text-color;
+                }
+            }
+
+            & .submit_btn{
+    
+                @include content_center('row');
+
+                & input{
+                    
+                    @include mybtn;
+
+                }
+
+            }
+
+        }
+
+    }
+
+    & .descp{
+        height: 100vh;
+        // background-color: black;
+        // @include content_center(column); 
+        display: flex;    
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+
+        
+        & .whatsapp_img{
+            // @include content_center(row);
+            // height: 50%;
+            width: 20%;
+            filter: drop-shadow(5px 10px 10px  rgba(0, 0, 0, 0.75));
+
+        }
+
+
+        & h2{
+            color: $text-color;
+            font-size: 2rem;
+            font-weight: bold;
+            margin-bottom: 2rem;
+            margin-left: 2rem;
+
+            & span{
+                color: $primary-color;
+                text-transform: capitalize;
+                font-size: 3.5rem;
+                font-weight: bold;
+            }
+        }
+
+        & p{
+            font-size: 1rem;
+            color: $text-color;
+            margin-bottom: 2rem;
+            margin-left: 2rem;
+        }
+    }
+
+    & .profile{
+        height: 70vh;
+    }
+}
+
+@media (max-width: 768px){ 
+
+
+    .sign_up .descp{
+        height: 50vh;
+        font-size: 1.5rem;
+    }
+
+    .sign_up .signup {
+        height: 85vh;
+    }
+
+    .sign_up .login {
+        height: 22vh;
+        margin-bottom: 9rem;
+    }
+
+    & .whatsapp_img{
+        display: none;
+    }
+
+    & .sign_up .profile{
+        height:60vh;
+    }
+
+    & .sign_up .phone{
+        height: 49vh;
+    }
+
+}

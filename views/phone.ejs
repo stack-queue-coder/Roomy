@@ -1,0 +1,40 @@
+<!-- 
+    <form action="/users/profile/details/updatePhone" method="post">
+        <input type="number" name="phone" placeholder="enter whatsapp number" required>
+        <input type="submit" value="choose-room">
+    </form>
+
+     -->
+
+<!-- <link rel="stylesheet" href="/css/home.css"> -->
+<link rel="stylesheet" href="<%= assetPath('css/sign-up_log-in.css')%>">
+<div class="sign_up">
+    <div class="container">
+        <div class="row">  
+            <div class="col-lg-6 col-12 mx-auto main_div phone">
+                <!-- <div class="main_div"> -->
+                <div class="card signup_form py-3">
+                    <p class="text-center my-3 text-capitalize">Phone</p>
+                        <form class="myform" action="/users/profile/details/updatePhone" method="post">
+
+                            <div class="mb-3"><input type="number" name="phone" class="form-control" placeholder="Whatsapp Number" required></div>
+                                                                                        
+                            <div class="submit_btn"><input type="submit" value="Choose Room"></div>
+
+                        </form>
+                </div>
+                <!-- </div> -->
+            </div>
+            <div class="col-lg-6 col-10 mx-auto">
+                <div class="descp">
+                    <div>
+                        <h2>Provide yo <span>Whatsapp</span> to make sure you get contacted easily :)</h2>
+                    </div>        
+                    <!-- <figure class="whatsapp_img"> -->
+                        <img class="whatsapp_img" src="<%= assetPath('images/w1.png') %>" alt="" >
+                    <!-- </figure>          -->
+                </div>
+            </div>        
+        </div>
+    </div>
+</div>

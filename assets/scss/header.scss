@@ -1,0 +1,54 @@
+@import '../scss/var';
+@import '../scss/vendor';
+@import '../scss/mixin';
+
+.header_main{
+    width: 100%;
+    line-height: 7.5vh;
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)) $main-color;
+    // position: fixed;
+    // top: 0;
+
+    & .navbar-nav{
+        padding-left: 100px;
+
+        & .nav-item{
+            font-size: 1rem;
+            color: $text-color;
+            text-transform: uppercase;
+            padding-right: 2rem;
+            font-weight: bold;
+            & a{
+                text-decoration: none;
+                color: $text-color;
+                // font-weight: bold;
+                transition: all 0.3s ease-in-out;
+
+                &:hover{
+                    color: $primary-color;
+                }
+            }
+        }
+        & .nav-item:hover{
+            color: $primary-color;
+        }
+    }
+
+    & .my-btn{
+        @include mybtn;
+    }   
+}
+
+
+
+@media (max-width: 768px){ 
+    .header_main .navbar-nav{
+        padding-left: 0%;
+        text-align: center;
+    }
+
+    .header_main .navbar-nav .nav-item{
+        padding-right: 0%;
+        // line-height: 100%;
+    }
+}

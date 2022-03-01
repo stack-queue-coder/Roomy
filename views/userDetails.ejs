@@ -1,0 +1,41 @@
+<link rel="stylesheet" href="<%= assetPath('css/sign-up_log-in.css')%>">
+    <!-- <form action="/users/create" method="post">
+        <input type="text" name="name" placeholder="name" required>
+        <input type="email" name="email" placeholder="Email address" required>
+        <input type="password" name="password" placeholder="Password" required>
+        <input type="password" name="confirm_password" placeholder="Confirm Password" required>
+        <input type="submit" value="Sign Up">
+    </form>
+     -->
+<div class="sign_up">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-12 mx-auto main_div signup">
+                <!-- <div class="main_div"> -->
+                <div class="card signup_form py-3">
+                    <p class="text-center my-3 text-capitalize">Update Form</p>
+                        <form class="myform" action="/users/profile/details/updateUser" method="post">
+                            <div class="mb-3"><input type="text" name="name" class="form-control" placeholder="Name" value="<%= locals.user.name %>" required></div>
+                            
+                            <div class="mb-3"><input type="text" name="email" class="form-control" placeholder="Enter student mail" value="<%= user.email%>" required></div>
+
+                            <div class="mb-3"><input type="number" name="phone" class="form-control" placeholder="Enter Whatsapp Number" value="<%= user.phone%>" required></div>
+                            <div class="mb-3">
+                                <select class="form-control" name="block" required>
+                                    <option hidden value="<%= user.block %>"><%= user.block %></option>
+                                    <option value="A">A</option>
+                                    <option value="Boys-B">Boys-B</option>
+                                    <option value="Girls-B">Girls-B</option>
+                                    <option value="C">C</option>
+                                </select>
+                            </div>
+                            <div class="mb-3"><input type="number" name="room_number" class="form-control" placeholder="Room Number" value="<%= user.room %>" required></div>
+
+                            <div class="submit_btn"><input type="submit" value="Save"></div>
+                        </form>
+                </div>
+                <!-- </div> -->
+            </div>
+        </div>
+    </div>
+</div>

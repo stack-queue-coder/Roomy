@@ -1,0 +1,1118 @@
+[0mGET / [36m304[0m 72.913 ms - -[0m
+[0mGET / [36m304[0m 16.588 ms - -[0m
+[0mGET /users/log-in [36m302[0m 14.677 ms - 100[0m
+[0mGET /users/profile/details/phone [36m302[0m 8.502 ms - 98[0m
+[0mGET /users/profile/details/room [36m302[0m 8.724 ms - 72[0m
+[0mGET /users/profile [36m304[0m 15.770 ms - -[0m
+[0mGET / [36m304[0m 13.312 ms - -[0m
+[0mGET / [36m304[0m 2.942 ms - -[0m
+[0mGET / [36m304[0m 14.159 ms - -[0m
+[0mGET / [36m304[0m 3.169 ms - -[0m
+[0mGET /users/sign-up [36m304[0m 3.806 ms - -[0m
+[0mGET /users/sign-up [36m304[0m 19.848 ms - -[0m
+[0mGET /users/sign-up [36m304[0m 3.836 ms - -[0m
+[0mGET / [36m304[0m 2.178 ms - -[0m
+[0mGET / [36m304[0m 4.608 ms - -[0m
+[0mGET / [36m304[0m 12.943 ms - -[0m
+[0mGET / [36m304[0m 4.188 ms - -[0m
+[0mGET / [36m304[0m 5.397 ms - -[0m
+[0mGET / [36m304[0m 2.428 ms - -[0m
+[0mGET / [36m304[0m 2.524 ms - -[0m
+[0mGET / [32m200[0m 3.746 ms - 4127[0m
+[0mGET / [36m304[0m 3.682 ms - -[0m
+[0mGET / [36m304[0m 3.167 ms - -[0m
+[0mGET / [36m304[0m 3.186 ms - -[0m
+[0mGET / [36m304[0m 3.550 ms - -[0m
+[0mGET / [36m304[0m 4.971 ms - -[0m
+[0mGET / [36m304[0m 3.573 ms - -[0m
+[0mGET / [36m304[0m 2.622 ms - -[0m
+[0mGET / [36m304[0m 3.603 ms - -[0m
+[0mGET / [36m304[0m 2.944 ms - -[0m
+[0mGET / [36m304[0m 3.170 ms - -[0m
+[0mGET / [32m200[0m 14.142 ms - 4138[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 1.661 ms - 14[0m
+[0mGET / [32m200[0m 5.732 ms - 4158[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 0.978 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 0.784 ms - 14[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 0.495 ms - 14[0m
+[0mGET / [36m304[0m 5.571 ms - -[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 0.795 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 0.781 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 1.543 ms - 14[0m
+[0mGET / [36m304[0m 15.244 ms - -[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 1.669 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 0.912 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 0.481 ms - 14[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 0.745 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 0.862 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 0.791 ms - 14[0m
+[0mGET / [36m304[0m 4.846 ms - -[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 0.676 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 0.572 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 0.456 ms - 14[0m
+[0mGET / [36m304[0m 3.572 ms - -[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 0.732 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 0.679 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 0.779 ms - 14[0m
+[0mGET / [32m200[0m 14.941 ms - 4161[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 1.107 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 1.218 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 0.770 ms - 14[0m
+[0mGET / [36m304[0m 5.736 ms - -[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 0.649 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 0.786 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 0.897 ms - 14[0m
+[0mGET / [36m304[0m 20.473 ms - -[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 1.178 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 0.896 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 0.707 ms - 14[0m
+[0mGET / [36m304[0m 4.038 ms - -[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 0.480 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 0.616 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 0.543 ms - 14[0m
+[0mGET / [36m304[0m 3.753 ms - -[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 0.596 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 0.660 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 0.501 ms - 14[0m
+[0mGET / [36m304[0m 4.090 ms - -[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 0.723 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 0.757 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 0.743 ms - 14[0m
+[0mGET /users/log-in [32m200[0m 6.580 ms - 5043[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 0.663 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 0.649 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 0.481 ms - 14[0m
+[0mGET / [36m304[0m 5.719 ms - -[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 0.480 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 0.408 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 0.435 ms - 14[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 0.970 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 0.794 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 0.812 ms - 14[0m
+[0mGET / [36m304[0m 5.070 ms - -[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 0.924 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 1.110 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 0.665 ms - 14[0m
+[0mGET / [36m304[0m 5.183 ms - -[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 0.696 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 0.635 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 0.869 ms - 14[0m
+[0mGET / [36m304[0m 3.732 ms - -[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 0.440 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 0.427 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 0.415 ms - 14[0m
+[0mGET / [36m304[0m 4.154 ms - -[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 0.548 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 1.636 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 0.531 ms - 14[0m
+[0mGET / [36m304[0m 3.514 ms - -[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 0.774 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 0.589 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 0.420 ms - 14[0m
+[0mGET / [36m304[0m 4.259 ms - -[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 0.656 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 0.680 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 0.655 ms - 14[0m
+[0mGET / [36m304[0m 3.777 ms - -[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 0.453 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 0.486 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 0.508 ms - 14[0m
+[0mGET / [36m304[0m 5.250 ms - -[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 0.463 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 0.629 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 0.580 ms - 14[0m
+[0mGET /users/sign-up [32m200[0m 6.013 ms - 5501[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 0.809 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 0.494 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 0.414 ms - 14[0m
+[0mGET / [36m304[0m 1004.064 ms - -[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 1.159 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 0.683 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 0.503 ms - 14[0m
+[0mGET /favicon.ico [33m404[0m 0.516 ms - 14[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 0.852 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 0.772 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 0.744 ms - 14[0m
+[0mGET / [36m304[0m 14.553 ms - -[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 1.826 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 1.254 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 0.677 ms - 14[0m
+[0mGET / [36m304[0m 13.623 ms - -[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 1.453 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 0.757 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 0.421 ms - 14[0m
+[0mGET / [36m304[0m 6.986 ms - -[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 0.716 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 0.650 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 0.608 ms - 14[0m
+[0mGET / [36m304[0m 5.679 ms - -[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 0.583 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 0.872 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 0.699 ms - 14[0m
+[0mGET / [36m304[0m 2.286 ms - -[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 0.586 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 0.642 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 0.720 ms - 14[0m
+[0mGET / [36m304[0m 48.546 ms - -[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 4.737 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 2.020 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 1.460 ms - 14[0m
+[0mGET / [31m500[0m 24.603 ms - 2325[0m
+[0mGET / [31m500[0m 3.619 ms - 2394[0m
+[0mGET / [31m500[0m 5.300 ms - 2394[0m
+[0mGET / [31m500[0m 3.531 ms - 2394[0m
+[0mGET /users/profile [36m302[0m 5.520 ms - 70[0m
+[0mGET /users/log-in [31m500[0m 22.710 ms - 2394[0m
+[0mGET /users/log-in [32m200[0m 4.272 ms - 5010[0m
+[0mGET /users/css/layout.css [33m404[0m 0.948 ms - 14[0m
+[0mGET /users/css/header.css' [33m404[0m 0.942 ms - 14[0m
+[0mGET /users/css/footer.css [33m404[0m 1.744 ms - 14[0m
+[0mGET /users/log-in [36m304[0m 13.154 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 3.874 ms - 14[0m
+[0mGET /users/css/header.css' [33m404[0m 3.094 ms - 14[0m
+[0mGET /users/css/footer.css [33m404[0m 2.074 ms - 14[0m
+[0mGET /users/css/layout.css [33m404[0m 2.024 ms - 14[0m
+[0mGET /users/css/header.css' [33m404[0m 3.251 ms - 14[0m
+[0mGET /users/css/footer.css [33m404[0m 0.541 ms - 14[0m
+[0mGET /users/log-in [32m200[0m 4.125 ms - 5013[0m
+[0mGET /css/header.css' [33m404[0m 0.651 ms - 14[0m
+[0mGET /users/log-in [36m304[0m 3.003 ms - -[0m
+[0mGET /css/header.css' [33m404[0m 0.748 ms - 14[0m
+[0mGET /users/log-in [36m304[0m 3.390 ms - -[0m
+[0mGET /css/header.css' [33m404[0m 0.873 ms - 14[0m
+[0mGET /users/log-in [36m304[0m 2.730 ms - -[0m
+[0mGET /css/header.css' [33m404[0m 0.644 ms - 14[0m
+[0mGET /users/log-in [36m304[0m 2.843 ms - -[0m
+[0mGET /css/header.css' [33m404[0m 0.793 ms - 14[0m
+[0mGET /users/log-in [36m304[0m 1.958 ms - -[0m
+[0mGET /css/header.css' [33m404[0m 0.511 ms - 14[0m
+[0mGET /users/log-in [36m304[0m 2.837 ms - -[0m
+[0mGET /css/header.css' [33m404[0m 0.416 ms - 14[0m
+[0mGET /users/log-in [36m304[0m 1.798 ms - -[0m
+[0mGET /css/header.css' [33m404[0m 0.419 ms - 14[0m
+[0mGET /users/log-in [36m304[0m 2.735 ms - -[0m
+[0mGET /css/header.css' [33m404[0m 0.430 ms - 14[0m
+[0mGET /users/log-in [36m304[0m 1.779 ms - -[0m
+[0mGET /css/header.css' [33m404[0m 0.463 ms - 14[0m
+[0mGET / [32m200[0m 2.389 ms - 4131[0m
+[0mGET /css/header.css' [33m404[0m 0.419 ms - 14[0m
+[0mGET /css/header.css' [33m404[0m 1.589 ms - 14[0m
+[0mGET / [36m304[0m 15.036 ms - -[0m
+[0mGET /css/header.css' [33m404[0m 1.507 ms - 14[0m
+[0mGET / [36m304[0m 24.677 ms - -[0m
+[0mGET /css/header.css' [33m404[0m 2.012 ms - 14[0m
+[0mGET /css/header.css' [33m404[0m 1.322 ms - 14[0m
+[0mGET /users/sign-up [32m200[0m 108.544 ms - 5471[0m
+[0mGET /css/header.css' [33m404[0m 0.529 ms - 14[0m
+[0mGET /users/sign-up [36m304[0m 2.976 ms - -[0m
+[0mGET /css/header.css' [33m404[0m 0.583 ms - 14[0m
+[0mGET /users/log-in [36m304[0m 3.156 ms - -[0m
+[0mGET /css/header.css' [33m404[0m 0.855 ms - 14[0m
+[0mPOST /users/create-session [36m302[0m 25.275 ms - 100[0m
+[0mGET /users/profile/details/phone [36m302[0m 5.477 ms - 98[0m
+[0mGET /users/profile/details/room [36m302[0m 3.589 ms - 72[0m
+[0mGET /users/profile [32m200[0m 21.754 ms - 6409[0m
+[0mGET /css/header.css' [33m404[0m 5.005 ms - 14[0m
+[0mGET /users/profile/details/userDetails [32m200[0m 123.966 ms - 5673[0m
+[0mGET /css/header.css' [33m404[0m 7.131 ms - 14[0m
+[0mGET /users/logout [36m302[0m 5.658 ms - 46[0m
+[0mGET / [36m304[0m 4.404 ms - -[0m
+[0mGET /css/header.css' [33m404[0m 3.392 ms - 14[0m
+[0mGET / [36m304[0m 15.757 ms - -[0m
+[0mGET /css/header.css' [33m404[0m 6.521 ms - 14[0m
+[0mGET / [36m304[0m 5.850 ms - -[0m
+[0mGET /css/header.css' [33m404[0m 7.023 ms - 14[0m
+[0mGET / [32m200[0m 3.998 ms - 4140[0m
+[0mGET /css/header.css' [33m404[0m 7.115 ms - 14[0m
+[0mGET / [36m304[0m 5.064 ms - -[0m
+[0mGET /css/header.css' [33m404[0m 4.170 ms - 14[0m
+[0mGET / [32m200[0m 4.920 ms - 4131[0m
+[0mGET /css/header.css' [33m404[0m 6.030 ms - 14[0m
+[0mGET / [36m304[0m 3.790 ms - -[0m
+[0mGET /css/header.css' [33m404[0m 4.699 ms - 14[0m
+[0mGET / [36m304[0m 4.511 ms - -[0m
+[0mGET /css/header.css' [33m404[0m 4.339 ms - 14[0m
+[0mGET / [36m304[0m 4.800 ms - -[0m
+[0mGET /css/header.css' [33m404[0m 5.086 ms - 14[0m
+[0mGET / [36m304[0m 4.539 ms - -[0m
+[0mGET /css/header.css' [33m404[0m 6.006 ms - 14[0m
+[0mGET / [36m304[0m 3.868 ms - -[0m
+[0mGET /css/header.css' [33m404[0m 5.591 ms - 14[0m
+[0mGET / [32m200[0m 6.711 ms - 4140[0m
+[0mGET /css/header.css' [33m404[0m 3.455 ms - 14[0m
+[0mGET / [32m200[0m 3.499 ms - 4131[0m
+[0mGET /css/header.css' [33m404[0m 3.730 ms - 14[0m
+[0mGET / [32m200[0m 4.980 ms - 4130[0m
+[0mGET /users/log-in [32m200[0m 7.662 ms - 5012[0m
+[0mGET / [36m304[0m 4.449 ms - -[0m
+[0mGET /users/sign-up [32m200[0m 5.231 ms - 5470[0m
+[0mGET /users/sign-up [36m304[0m 4.684 ms - -[0m
+[0mGET /users/sign-up [36m304[0m 3.264 ms - -[0m
+[0mGET /users/log-in [36m304[0m 3.518 ms - -[0m
+[0mGET /users/log-in [36m304[0m 3.385 ms - -[0m
+[0mPOST /users/create-session [36m302[0m 15.446 ms - 100[0m
+[0mGET /users/profile/details/phone [36m302[0m 4.541 ms - 98[0m
+[0mGET /users/profile/details/room [36m302[0m 3.445 ms - 72[0m
+[0mGET /users/profile [32m200[0m 9.216 ms - 6408[0m
+[0mGET /users/profile/details/userDetails [32m200[0m 8.710 ms - 5672[0m
+[0mGET /users/logout [36m302[0m 7.725 ms - 46[0m
+[0mGET / [36m304[0m 3.297 ms - -[0m
+[0mGET /users/sign-up [36m304[0m 4.949 ms - -[0m
+[0mPOST /users/create [36m302[0m 5.160 ms - 114[0m
+[0mGET /users/sign-up [36m304[0m 2.820 ms - -[0m
+[0mPOST /users/create [36m302[0m 5.649 ms - 114[0m
+[0mGET /users/sign-up [36m304[0m 3.002 ms - -[0m
+[0mGET /users/sign-up [36m304[0m 16.040 ms - -[0m
+[0mGET / [36m304[0m 4.909 ms - -[0m
+[0mGET / [36m304[0m 15.966 ms - -[0m
+[0mGET / [36m304[0m 37.821 ms - -[0m
+[0mGET / [36m304[0m 11.908 ms - -[0m
+[0mGET /users/log-in [36m304[0m 14.120 ms - -[0m
+[0mPOST /users/create-session [36m302[0m 31.864 ms - 100[0m
+[0mGET /users/profile/details/phone [36m302[0m 9.074 ms - 98[0m
+[0mGET /users/profile/details/room [36m302[0m 9.031 ms - 72[0m
+[0mGET /users/profile [36m304[0m 15.506 ms - -[0m
+[0mGET /users/logout [36m302[0m 10.769 ms - 46[0m
+[0mGET / [36m304[0m 6.756 ms - -[0m
+[0mGET /users/log-in [36m304[0m 9.381 ms - -[0m
+::1 - - [28/Feb/2022:19:13:34 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:13:34 +0000] "GET /css/layout.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:13:34 +0000] "GET /css/header.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:13:34 +0000] "GET /css/footer.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:13:34 +0000] "GET /css/home.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:13:34 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:13:34 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:13:34 +0000] "GET /favicon.ico HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:15:12 +0000] "GET /users/sign-up HTTP/1.1" 304 - "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:15:12 +0000] "GET /css/layout.css HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:15:12 +0000] "GET /css/header.css HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:15:12 +0000] "GET /css/footer.css HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:15:12 +0000] "GET /css/sign-up_log-in.css HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:15:12 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:15:17 +0000] "GET /users/log-in HTTP/1.1" 304 - "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:15:17 +0000] "GET /css/layout.css HTTP/1.1" 404 14 "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:15:17 +0000] "GET /css/header.css HTTP/1.1" 404 14 "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:15:17 +0000] "GET /css/footer.css HTTP/1.1" 404 14 "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:15:17 +0000] "GET /css/sign-up_log-in.css HTTP/1.1" 404 14 "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:15:17 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:15:26 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:15:26 +0000] "GET /css/layout.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:15:26 +0000] "GET /css/header.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:15:26 +0000] "GET /css/footer.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:15:26 +0000] "GET /css/home.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:15:26 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:15:26 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:56 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:56 +0000] "GET /css/layout.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:56 +0000] "GET /css/header.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:56 +0000] "GET /css/footer.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:56 +0000] "GET /css/home.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:56 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:56 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:56 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:56 +0000] "GET /css/layout.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:56 +0000] "GET /css/header.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:56 +0000] "GET /css/footer.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:56 +0000] "GET /css/home.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:56 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:56 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:57 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:57 +0000] "GET /css/layout.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:57 +0000] "GET /css/header.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:57 +0000] "GET /css/footer.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:57 +0000] "GET /css/home.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:57 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:57 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:57 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:57 +0000] "GET /css/layout.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:57 +0000] "GET /css/header.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:57 +0000] "GET /css/footer.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:57 +0000] "GET /css/home.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:57 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:57 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:58 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:58 +0000] "GET /css/layout.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:58 +0000] "GET /css/header.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:58 +0000] "GET /css/footer.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:58 +0000] "GET /css/home.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:58 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:58 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:59 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:59 +0000] "GET /css/layout.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:59 +0000] "GET /css/header.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:59 +0000] "GET /css/footer.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:59 +0000] "GET /css/home.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:59 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:59 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:59 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:59 +0000] "GET /css/layout.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:59 +0000] "GET /css/header.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:59 +0000] "GET /css/footer.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:59 +0000] "GET /css/home.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:59 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:17:59 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:18:02 +0000] "GET /css/layout.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:18:02 +0000] "GET /css/header.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:18:02 +0000] "GET /css/footer.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:18:02 +0000] "GET /css/home.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:19:25 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:25 +0000] "GET /css/layout.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:25 +0000] "GET /css/header.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:25 +0000] "GET /css/footer.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:25 +0000] "GET /css/home.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:25 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:25 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:26 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:26 +0000] "GET /css/layout.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:26 +0000] "GET /css/header.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:26 +0000] "GET /css/footer.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:26 +0000] "GET /css/home.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:26 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:26 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:27 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:27 +0000] "GET /css/layout.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:27 +0000] "GET /css/header.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:27 +0000] "GET /css/footer.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:27 +0000] "GET /css/home.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:27 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:27 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:28 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:28 +0000] "GET /css/layout.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:28 +0000] "GET /css/header.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:28 +0000] "GET /css/footer.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:28 +0000] "GET /css/home.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:28 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:28 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:28 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:28 +0000] "GET /css/layout.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:28 +0000] "GET /css/header.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:28 +0000] "GET /css/footer.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:28 +0000] "GET /css/home.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:28 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:28 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:29 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:29 +0000] "GET /css/layout.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:29 +0000] "GET /css/header.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:29 +0000] "GET /css/footer.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:29 +0000] "GET /css/home.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:29 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:29 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:30 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:30 +0000] "GET /css/layout.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:30 +0000] "GET /css/header.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:30 +0000] "GET /css/footer.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:30 +0000] "GET /css/home.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:30 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:30 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:30 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:31 +0000] "GET /css/layout.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:31 +0000] "GET /css/header.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:31 +0000] "GET /css/footer.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:31 +0000] "GET /css/home.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:31 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:31 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:31 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:31 +0000] "GET /css/layout.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:31 +0000] "GET /css/header.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:31 +0000] "GET /css/footer.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:31 +0000] "GET /css/home.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:31 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:19:31 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:20:44 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:20:44 +0000] "GET /css/layout.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:20:44 +0000] "GET /css/header.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:20:44 +0000] "GET /css/footer.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:20:44 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:20:44 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:20:44 +0000] "GET /css/home.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::ffff:127.0.0.1 - - [28/Feb/2022:19:25:33 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::ffff:127.0.0.1 - - [28/Feb/2022:19:25:33 +0000] "GET /css/layout.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::ffff:127.0.0.1 - - [28/Feb/2022:19:25:33 +0000] "GET /css/header.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:25:33 +0000] "GET /css/footer.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:25:33 +0000] "GET /css/home.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:25:33 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::ffff:127.0.0.1 - - [28/Feb/2022:19:25:33 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+[0mGET / [36m304[0m 214.095 ms - -[0m
+::1 - - [28/Feb/2022:19:36:33 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:36:33 +0000] "GET /css/layout.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:36:33 +0000] "GET /css/header.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:36:33 +0000] "GET /css/footer.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:36:33 +0000] "GET /css/home.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:36:33 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:36:33 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:36:45 +0000] "GET /css/layout.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:36:45 +0000] "GET /css/header.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:36:45 +0000] "GET /css/footer.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:36:45 +0000] "GET /css/home.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:36:55 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:36:55 +0000] "GET /css/layout.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:36:55 +0000] "GET /css/footer.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:36:55 +0000] "GET /css/header.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:36:55 +0000] "GET /css/home.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:36:55 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:36:55 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:36:59 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:36:59 +0000] "GET /css/layout.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:36:59 +0000] "GET /css/header.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:36:59 +0000] "GET /css/footer.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:36:59 +0000] "GET /css/home.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:36:59 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:36:59 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:47:51 +0000] "GET / HTTP/1.1" 500 1827 "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:48:09 +0000] "GET / HTTP/1.1" 500 1827 "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:48:10 +0000] "GET / HTTP/1.1" 500 1827 "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:48:11 +0000] "GET /css/footer.css HTTP/1.1" 404 14 "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:48:13 +0000] "GET /users/log-in HTTP/1.1" 500 1827 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:48:14 +0000] "GET /users/log-in HTTP/1.1" 500 1827 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:48:18 +0000] "GET / HTTP/1.1" 500 1827 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:49:00 +0000] "GET / HTTP/1.1" 200 4141 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:49:00 +0000] "GET /css/layout-d9c315492d.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:49:00 +0000] "GET /css/header.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:49:00 +0000] "GET /css/footer.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:49:00 +0000] "GET /css/home.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:49:00 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:49:00 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:50:45 +0000] "GET / HTTP/1.1" 200 4163 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:50:45 +0000] "GET /css/layout-d9c315492d.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:50:45 +0000] "GET /css/header-1b00adfc0c.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:50:45 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:50:45 +0000] "GET /css/home.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:50:45 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:50:45 +0000] "GET /css/footer-29a6154e3b.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:50:49 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:50:49 +0000] "GET /css/layout-d9c315492d.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:50:49 +0000] "GET /css/header-1b00adfc0c.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:50:49 +0000] "GET /css/footer-29a6154e3b.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:50:49 +0000] "GET /css/home.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:50:49 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:50:49 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:50:49 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:50:49 +0000] "GET /css/layout-d9c315492d.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:50:49 +0000] "GET /css/header-1b00adfc0c.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:50:49 +0000] "GET /css/footer-29a6154e3b.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:50:49 +0000] "GET /css/home.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:50:49 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:50:49 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:51:02 +0000] "GET /css/layout-d9c315492d.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:51:02 +0000] "GET /css/header-1b00adfc0c.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:51:02 +0000] "GET /css/footer-29a6154e3b.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:51:02 +0000] "GET /css/home.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:19:52:40 +0000] "GET / HTTP/1.1" 200 4174 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:52:40 +0000] "GET /css/layout-d9c315492d.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:52:40 +0000] "GET /css/header-1b00adfc0c.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:52:40 +0000] "GET /css/home-5bb51e6882.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:52:40 +0000] "GET /css/footer-29a6154e3b.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:52:40 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:52:40 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:52:41 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:52:41 +0000] "GET /css/layout-d9c315492d.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:52:41 +0000] "GET /css/header-1b00adfc0c.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:52:41 +0000] "GET /css/footer-29a6154e3b.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:52:41 +0000] "GET /css/home-5bb51e6882.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:52:41 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:52:41 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:57:48 +0000] "GET /css/header.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:57:59 +0000] "GET /css/layout.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:58:09 +0000] "GET /css/layout HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:58:17 +0000] "GET /css/header HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:58:44 +0000] "GET /css/layout.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:58:54 +0000] "GET /css/header.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:19:59:03 +0000] "GET /css/layout.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+[0mGET / [32m200[0m 17.492 ms - 4373[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 3.218 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 7.207 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 12.682 ms - 14[0m
+[0mGET /css/home-5bb51e6882.css [33m404[0m 13.979 ms - 14[0m
+[0mGET / [36m304[0m 6.638 ms - -[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 3.544 ms - 14[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 5.324 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 5.114 ms - 14[0m
+[0mGET /css/home-5bb51e6882.css [33m404[0m 10.843 ms - 14[0m
+[0mGET / [36m304[0m 7.489 ms - -[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 3.857 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 5.750 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 7.196 ms - 14[0m
+[0mGET /css/home-5bb51e6882.css [33m404[0m 8.907 ms - 14[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 3.569 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 6.562 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 7.623 ms - 14[0m
+[0mGET /css/home-5bb51e6882.css [33m404[0m 9.020 ms - 14[0m
+[0mGET / [36m304[0m 19.589 ms - -[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 4.496 ms - 14[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 12.032 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 13.197 ms - 14[0m
+[0mGET /css/home-5bb51e6882.css [33m404[0m 14.192 ms - 14[0m
+[0mGET / [36m304[0m 4.719 ms - -[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 3.725 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 6.338 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 5.079 ms - 14[0m
+[0mGET /css/home-5bb51e6882.css [33m404[0m 5.067 ms - 14[0m
+[0mGET /css/layout-d9c315492d.css [33m404[0m 7.841 ms - 14[0m
+[0mGET /css/header-1b00adfc0c.css [33m404[0m 8.230 ms - 14[0m
+[0mGET /css/footer-29a6154e3b.css [33m404[0m 7.917 ms - 14[0m
+[0mGET /css/home-5bb51e6882.css [33m404[0m 11.809 ms - 14[0m
+[0mGET / [32m200[0m 16.758 ms - 4289[0m
+::1 - - [28/Feb/2022:20:08:39 +0000] "GET / HTTP/1.1" 200 4373 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:08:39 +0000] "GET /css/layout-d9c315492d.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:08:39 +0000] "GET /css/header-1b00adfc0c.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:08:39 +0000] "GET /css/footer-29a6154e3b.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:08:39 +0000] "GET /css/home-5bb51e6882.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:08:39 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:08:39 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:08:42 +0000] "GET /css/layout-d9c315492d.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:08:42 +0000] "GET /css/header-1b00adfc0c.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:08:42 +0000] "GET /css/footer-29a6154e3b.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:08:42 +0000] "GET /css/home-5bb51e6882.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:28:36 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:28:36 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:28:36 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:28:36 +0000] "GET /favicon.ico HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:29:37 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:29:37 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:29:37 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:29:43 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:29:43 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:29:43 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:29:44 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:29:44 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:29:44 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:29:45 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:29:45 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:29:45 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:29:46 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:29:46 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:29:46 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:29:46 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:29:46 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:29:46 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+[0mGET / [32m200[0m 22.106 ms - 4289[0m
+::1 - - [28/Feb/2022:20:30:40 +0000] "GET / HTTP/1.1" 200 4373 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:30:40 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:30:40 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:30:42 +0000] "GET /users/sign-up HTTP/1.1" 200 5702 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:30:42 +0000] "GET /css/sign-up_log-in.css HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:30:42 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:30:45 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:30:45 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:30:45 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:33:51 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:33:51 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:33:51 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:33:52 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:33:52 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:33:52 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:33:53 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:33:53 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:33:53 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:35:18 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:35:18 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:35:18 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:35:19 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:35:19 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:35:19 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:35:20 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:35:20 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:35:20 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:35:25 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:35:25 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:35:25 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:35:26 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:35:26 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:35:26 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:37:32 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:20:40:06 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:40:06 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:40:06 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:40:07 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:40:07 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:40:07 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:40:07 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:40:07 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:40:07 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:40:10 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:20:40:10 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:20:40:10 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:20:42:25 +0000] "GET /users/log-in HTTP/1.1" 200 5255 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:42:25 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:42:50 +0000] "GET /users/sign-up HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:42:50 +0000] "GET /css/sign-up_log-in.css HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:42:50 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:43:23 +0000] "GET /users/sign-up HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:43:23 +0000] "GET /css/sign-up_log-in.css HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:43:23 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:43:26 +0000] "GET /users/sign-up HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:43:26 +0000] "GET /css/sign-up_log-in.css HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:43:26 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:43:27 +0000] "GET /users/sign-up HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:43:27 +0000] "GET /css/sign-up_log-in.css HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:43:27 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:43:33 +0000] "GET /users/sign-up HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:43:33 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:43:33 +0000] "GET /css/sign-up_log-in.css HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:43:33 +0000] "GET /users/sign-up HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:43:33 +0000] "GET /css/sign-up_log-in.css HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:43:33 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:43:49 +0000] "GET /users/log-in HTTP/1.1" 304 - "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:43:50 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:43:51 +0000] "GET /users/sign-up HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:43:53 +0000] "GET /css/sign-up_log-in.css HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:43:53 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:44:09 +0000] "GET /users/sign-up HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:44:09 +0000] "GET /css/sign-up_log-in.css HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:44:09 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:44:42 +0000] "GET /users/sign-up HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:44:42 +0000] "GET /css/sign-up_log-in.css HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:44:42 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:44:43 +0000] "GET /users/sign-up HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:44:43 +0000] "GET /css/sign-up_log-in.css HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:44:43 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:45:41 +0000] "GET /users/sign-up HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:45:41 +0000] "GET /css/sign-up_log-in.css HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:45:41 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:45:44 +0000] "GET /css/sign-up_log-in.css HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:46:03 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:20:46:03 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:20:46:03 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:20:46:47 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:20:46:47 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:20:46:47 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:20:46:48 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:20:46:48 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:20:46:48 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:20:46:53 +0000] "GET /users/sign-up HTTP/1.1" 304 - "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:46:53 +0000] "GET /css/sign-up_log-in.css HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:46:53 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:46:55 +0000] "GET /users/log-in HTTP/1.1" 304 - "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:46:56 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:47:57 +0000] "GET /users/log-in HTTP/1.1" 304 - "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:47:57 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:48:00 +0000] "GET /users/sign-up HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:48:04 +0000] "GET /css/sign-up_log-in.css HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:48:04 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:48:41 +0000] "GET /css/sign-up_log-in.css HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:49:05 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:20:49:06 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:20:49:06 +0000] "GET /images/grp.png HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [28/Feb/2022:20:49:12 +0000] "GET /users/log-in HTTP/1.1" 304 - "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:49:13 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:55:19 +0000] "GET /users/sign-up HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:55:19 +0000] "GET /css/sign-up_log-in.css HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:55:19 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:55:21 +0000] "GET /users/log-in HTTP/1.1" 304 - "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:55:21 +0000] "GET /images/roomy-icon.png HTTP/1.1" 404 14 "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:55:56 +0000] "GET /users/log-in HTTP/1.1" 200 5060 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:20:56:01 +0000] "GET /users/sign-up HTTP/1.1" 200 5518 "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:21:01:56 +0000] "GET / HTTP/1.1" 200 4196 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:21:04:08 +0000] "GET / HTTP/1.1" 200 4201 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:21:04:10 +0000] "GET /users/sign-up HTTP/1.1" 200 5530 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:21:04:14 +0000] "GET /users/log-in HTTP/1.1" 200 5072 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [28/Feb/2022:21:04:21 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+[0mGET / [32m200[0m 33.698 ms - 4129[0m
+[0mGET /users/sign-up [32m200[0m 6.274 ms - 5470[0m
+[0mGET /users/css/header.css [33m404[0m 7.382 ms - 14[0m
+[0mGET /users/css/layout.css [33m404[0m 7.495 ms - 14[0m
+[0mGET /users/css/sign-up_log-in.css [33m404[0m 8.479 ms - 14[0m
+[0mGET /users/css/footer.css [33m404[0m 9.060 ms - 14[0m
+[0mGET /users/images/roomy-icon.png [33m404[0m 1.126 ms - 14[0m
+[0mGET /users/log-in [32m200[0m 2.513 ms - 5012[0m
+[0mGET /users/css/layout.css [33m404[0m 0.682 ms - 14[0m
+[0mGET /users/css/header.css [33m404[0m 0.774 ms - 14[0m
+[0mGET /users/css/footer.css [33m404[0m 0.859 ms - 14[0m
+[0mGET /users/css/sign-up_log-in.css [33m404[0m 0.626 ms - 14[0m
+[0mGET /users/images/roomy-icon.png [33m404[0m 0.506 ms - 14[0m
+[0mGET /users/sign-up [36m304[0m 1.410 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 1.353 ms - 14[0m
+[0mGET /users/css/header.css [33m404[0m 1.444 ms - 14[0m
+[0mGET /users/css/footer.css [33m404[0m 1.590 ms - 14[0m
+[0mGET /users/css/sign-up_log-in.css [33m404[0m 1.895 ms - 14[0m
+[0mGET /users/images/roomy-icon.png [33m404[0m 0.990 ms - 14[0m
+[0mGET / [36m304[0m 2.738 ms - -[0m
+[0mGET /users/log-in [36m304[0m 1.920 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 1.081 ms - 14[0m
+[0mGET /users/css/header.css [33m404[0m 1.126 ms - 14[0m
+[0mGET /users/css/footer.css [33m404[0m 1.317 ms - 14[0m
+[0mGET /users/css/sign-up_log-in.css [33m404[0m 1.501 ms - 14[0m
+[0mGET /users/images/roomy-icon.png [33m404[0m 0.507 ms - 14[0m
+[0mGET /users/css/layout.css [33m404[0m 1.401 ms - 14[0m
+[0mGET /users/css/header.css [33m404[0m 1.595 ms - 14[0m
+[0mGET /users/css/footer.css [33m404[0m 1.860 ms - 14[0m
+[0mGET /users/css/sign-up_log-in.css [33m404[0m 2.208 ms - 14[0m
+[0mGET / [36m304[0m 2.490 ms - -[0m
+[0mGET / [36m304[0m 1.781 ms - -[0m
+[0mGET /users/log-in [36m304[0m 1.385 ms - -[0m
+[0mGET /users/css/layout.css [33m404[0m 0.751 ms - 14[0m
+[0mGET /users/css/header.css [33m404[0m 2.347 ms - 14[0m
+[0mGET /users/images/roomy-icon.png [33m404[0m 2.459 ms - 14[0m
+[0mGET /users/css/footer.css [33m404[0m 2.552 ms - 14[0m
+[0mGET /users/css/sign-up_log-in.css [33m404[0m 2.813 ms - 14[0m
+[0mGET /users/css/layout.css [33m404[0m 2.151 ms - 14[0m
+[0mGET /users/css/header.css [33m404[0m 2.423 ms - 14[0m
+[0mGET /users/css/footer.css [33m404[0m 2.792 ms - 14[0m
+[0mGET /users/css/sign-up_log-in.css [33m404[0m 3.173 ms - 14[0m
+[0mGET /users/log-in [32m200[0m 14.257 ms - 5017[0m
+[0mGET /users/sign-up [32m200[0m 3.418 ms - 5475[0m
+[0mGET / [32m200[0m 2.573 ms - 4135[0m
+[0mGET /users/log-in [36m304[0m 1.802 ms - -[0m
+[0mGET /users/profile/details/phone [36m302[0m 101.618 ms - 70[0m
+[0mPOST /users/create-session [36m302[0m 212.852 ms - 100[0m
+[0mGET /users/log-in [36m302[0m 30.705 ms - 100[0m
+[0mGET /users/profile/details/phone [36m302[0m 4.585 ms - 98[0m
+[0mGET /users/profile/details/room [36m302[0m 4.085 ms - 72[0m
+[0mGET /users/profile [32m200[0m 30.298 ms - 6403[0m
+[0mGET /users/profile/details/userDetails [32m200[0m 7.399 ms - 5664[0m
+[0mGET /users/logout [36m302[0m 8.194 ms - 46[0m
+[0mGET / [36m304[0m 2.238 ms - -[0m
+[0mGET /users/sign-up [36m304[0m 3.981 ms - -[0m
+[0mPOST /users/create [36m302[0m 74.459 ms - 70[0m
+[0mGET /users/log-in [32m200[0m 4.252 ms - 5017[0m
+[0mPOST /users/create-session [36m302[0m 7.771 ms - 100[0m
+[0mGET /users/profile/details/phone [32m200[0m 4.778 ms - 4976[0m
+[0mPOST /users/profile/details/updatePhone [36m302[0m 116.166 ms - 98[0m
+[0mGET /users/profile/details/room [32m200[0m 13.239 ms - 3703[0m
+[0mGET /users/profile/details/room [36m304[0m 6.028 ms - -[0m
+[0mGET /users/profile/details/room [36m304[0m 4.692 ms - -[0m
+[0mGET /users/profile/details/room [31m500[0m 24.649 ms - 148[0m
+[0mGET /users/profile/details/room [31m500[0m 8.758 ms - 148[0m
+[0mGET /users/profile/details/room [31m500[0m 4.298 ms - 148[0m
+[0mGET /users/profile/details/room [31m500[0m 4.170 ms - 148[0m
+[0mGET /users/profile/details/room [31m500[0m 5.058 ms - 148[0m
+[0mPOST /users/profile/details/updatePhone [36m302[0m 47.309 ms - 98[0m
+[0mGET /users/profile/details/room [31m500[0m 3.710 ms - 148[0m
+[0mGET /users/profile/details/room [32m200[0m 27.630 ms - 5075[0m
+[0mGET /users/profile/details/room [36m304[0m 9.005 ms - -[0m
+[0mGET /users/profile/details/room [36m304[0m 25.420 ms - -[0m
+[0mGET /users/profile/details/room [36m304[0m 5.816 ms - -[0m
+[0mGET /users/profile/details/room [31m500[0m 23.567 ms - 148[0m
+[0mGET /users/profile/details/room [32m200[0m 26.811 ms - 5664[0m
+[0mGET /users/profile/details/room [32m200[0m 28.436 ms - 5726[0m
+[0mGET /users/profile/details/room [32m200[0m 26.848 ms - 5237[0m
+[0mGET /users/profile/details/room [36m304[0m 9.195 ms - -[0m
+[0mGET /users/profile/details/room [36m304[0m 4.707 ms - -[0m
+[0mGET /users/profile/details/room [36m304[0m 7.227 ms - -[0m
+[0mGET /users/profile/details/room [32m200[0m 53.255 ms - 5248[0m
+[0mGET /users/profile/details/room [32m200[0m 26.491 ms - 5248[0m
+[0mGET /users/log-in [36m302[0m 9.534 ms - 100[0m
+[0mGET /users/profile/details/phone [36m302[0m 4.844 ms - 98[0m
+[0mGET /users/profile/details/room [36m304[0m 4.553 ms - -[0m
+[0mPOST /users/profile/details/updateRoom [36m302[0m 12.148 ms - 72[0m
+[0mGET /users/profile [32m200[0m 6.736 ms - 4119[0m
+[0mGET /users/profile/details/userDetails [32m200[0m 7.328 ms - 5657[0m
+[0mGET / [36m304[0m 1990.685 ms - -[0m
+[0mGET /favicon.ico [33m404[0m 1.030 ms - 14[0m
+[0mGET /users/log-in [32m200[0m 138.322 ms - 5017[0m
+[0mPOST /users/create-session [36m302[0m 16.272 ms - 100[0m
+[0mGET /users/profile/details/phone [36m302[0m 24.365 ms - 98[0m
+[0mGET /users/profile/details/room [36m302[0m 5.618 ms - 72[0m
+[0mGET /users/profile [32m200[0m 16.696 ms - 6410[0m
+[0mGET /users/profile [32m200[0m 10.923 ms - 6805[0m
+[0mGET /users/profile [32m200[0m 12.745 ms - 7025[0m
+[0mGET /users/profile [32m200[0m 10.965 ms - 6755[0m
+[0mGET /users/profile [32m200[0m 17.150 ms - 6760[0m
+[0mGET /users/profile/details/userDetails [32m200[0m 9.567 ms - 5679[0m
+[0mPOST /users/profile/details/updateUser [36m302[0m 123.789 ms - 72[0m
+[0mGET /users/profile [32m200[0m 20.160 ms - 4217[0m
+[0mGET /users/profile [36m304[0m 13.162 ms - -[0m
+[0mGET /users/profile [36m304[0m 7.712 ms - -[0m
+[0mGET /users/profile/details/userDetails [32m200[0m 7.342 ms - 5684[0m
+[0mPOST /users/profile/details/updateUser [36m302[0m 11.698 ms - 72[0m
+[0mGET /users/profile [32m200[0m 6.262 ms - 4218[0m
+[0mGET /users/profile [36m304[0m 8.150 ms - -[0m
+[0mGET /users/profile/details/userDetails [32m200[0m 6.525 ms - 5685[0m
+[0mPOST /users/profile/details/updateUser [36m302[0m 9.901 ms - 72[0m
+[0mGET /users/profile [32m200[0m 5.852 ms - 4217[0m
+[0mGET /users/profile/details/userDetails [32m200[0m 7.929 ms - 5684[0m
+[0mPOST /users/profile/details/updateUser [36m302[0m 8.894 ms - 72[0m
+[0mGET /users/profile [32m200[0m 6.639 ms - 4218[0m
+[0mGET /users/profile/details/userDetails [32m200[0m 8.762 ms - 5685[0m
+[0mPOST /users/profile/details/updateUser [36m302[0m 7.087 ms - 72[0m
+[0mGET /users/profile [32m200[0m 5.670 ms - 6760[0m
+[0mGET / [36m304[0m 8.024 ms - -[0m
+[0mGET /users/log-in [36m302[0m 4.738 ms - 100[0m
+[0mGET /users/profile/details/phone [36m302[0m 4.680 ms - 98[0m
+[0mGET /users/profile/details/room [36m302[0m 2.892 ms - 72[0m
+[0mGET /users/profile [36m304[0m 7.339 ms - -[0m
+[0mGET /users/profile [36m302[0m 33.995 ms - 100[0m
+[0mGET /users/profile/details/phone [36m302[0m 5.096 ms - 98[0m
+[0mGET /users/profile/details/room [32m200[0m 14.981 ms - 5331[0m
+[0mGET /users/profile/details/room [36m304[0m 8.666 ms - -[0m
+[0mGET /users/profile/details/room [32m200[0m 8.307 ms - 5337[0m
+[0mGET /users/profile/details/room [36m304[0m 11.588 ms - -[0m
+[0mGET /users/logout [36m302[0m 7.100 ms - 46[0m
+[0mGET / [36m304[0m 3.743 ms - -[0m
+[0mGET /users/log-in [32m200[0m 6.002 ms - 5017[0m
+[0mGET /users/sign-up [36m304[0m 31.566 ms - -[0m
+[0mPOST /users/create [36m302[0m 54.112 ms - 70[0m
+[0mGET /users/log-in [36m304[0m 4.107 ms - -[0m
+[0mPOST /users/create-session [36m302[0m 7.008 ms - 100[0m
+[0mGET /users/profile/details/phone [32m200[0m 6.857 ms - 4983[0m
+[0mGET /users/profile/details/phone [32m200[0m 5.857 ms - 4949[0m
+[0mGET /users/profile/details/phone [32m200[0m 6.980 ms - 4942[0m
+[0mGET /users/profile/details/phone [32m200[0m 5.380 ms - 4943[0m
+[0mGET /users/profile/details/phone [36m304[0m 6.209 ms - -[0m
+[0mGET / [36m304[0m 8.814 ms - -[0m
+[0mGET /users/sign-up [36m302[0m 5.018 ms - 100[0m
+[0mGET /users/profile/details/phone [36m304[0m 5.202 ms - -[0m
+[0mGET /users/profile/details/phone [36m304[0m 5.372 ms - -[0m
+[0mGET /users/profile/details/phone [32m200[0m 10.616 ms - 4943[0m
+[0mGET /users/profile/details/phone [36m304[0m 5.782 ms - -[0m
+[0mGET /users/profile/details/phone [36m304[0m 6.389 ms - -[0m
+[0mGET /users/profile/details/phone [36m304[0m 5.046 ms - -[0m
+[0mGET /users/profile/details/phone [36m304[0m 6.259 ms - -[0m
+[0mGET /users/profile/details/phone [36m304[0m 6.002 ms - -[0m
+[0mGET /users/profile/details/phone [36m304[0m 7.670 ms - -[0m
+[0mGET / [36m304[0m 10.547 ms - -[0m
+[0mGET /users/sign-up [36m302[0m 4.556 ms - 100[0m
+[0mGET /users/profile/details/phone [36m304[0m 5.612 ms - -[0m
+[0mGET /users/profile/details/phone [32m200[0m 10.032 ms - 4961[0m
+[0mGET /users/profile/details/phone [32m200[0m 4.941 ms - 4961[0m
+[0mGET /users/profile/details/phone [32m200[0m 6.634 ms - 4982[0m
+[0mGET /users/profile/details/phone [32m200[0m 6.077 ms - 4970[0m
+[0mGET /users/profile/details/phone [36m304[0m 6.263 ms - -[0m
+[0mGET /users/profile/details/phone [36m304[0m 10.052 ms - -[0m
+[0mGET /users/profile/details/phone [36m304[0m 6.893 ms - -[0m
+[0mGET /users/profile/details/phone [36m304[0m 12.991 ms - -[0m
+[0mGET /users/profile/details/phone [36m304[0m 6.002 ms - -[0m
+[0mGET /users/profile/details/phone [36m304[0m 6.644 ms - -[0m
+[0mGET /users/profile/details/phone [36m304[0m 9.230 ms - -[0m
+[0mGET / [36m304[0m 12.310 ms - -[0m
+[0mGET / [36m304[0m 10.968 ms - -[0m
+[0mGET / [36m304[0m 15.599 ms - -[0m
+[0mGET / [36m304[0m 6.117 ms - -[0m
+[0mGET / [36m304[0m 6.464 ms - -[0m
+[0mGET / [32m200[0m 15.063 ms - 4149[0m
+[0mGET / [32m200[0m 7.317 ms - 4149[0m
+[0mGET / [32m200[0m 5.295 ms - 4150[0m
+[0mGET /users/log-in [36m302[0m 7.305 ms - 100[0m
+[0mGET /users/profile/details/phone [36m304[0m 12.687 ms - -[0m
+[0mGET /users/profile/details/phone [36m304[0m 9.665 ms - -[0m
+[0mGET /users/profile/details/phone [36m304[0m 6.982 ms - -[0m
+[0mGET /users/profile/details/phone [36m304[0m 6.295 ms - -[0m
+[0mGET / [36m304[0m 6.870 ms - -[0m
+[0mGET /users/sign-up [36m302[0m 6.340 ms - 100[0m
+[0mGET /users/profile/details/phone [36m304[0m 4.126 ms - -[0m
+[0mGET / [36m304[0m 6.183 ms - -[0m
+[0mGET /users/log-in [36m302[0m 5.914 ms - 100[0m
+[0mGET /users/profile/details/phone [36m304[0m 5.224 ms - -[0m
+[0mPOST /users/profile/details/updatePhone [36m302[0m 11.260 ms - 98[0m
+[0mGET /users/profile/details/room [32m200[0m 4.063 ms - 5332[0m
+[0mGET /users/profile/details/room [32m200[0m 7.044 ms - 5332[0m
+[0mPOST /users/profile/details/updateRoom [36m302[0m 10.040 ms - 72[0m
+[0mGET /users/profile [32m200[0m 6.498 ms - 4201[0m
+[0mGET /users/profile/details/userDetails [31m500[0m 7.836 ms - 2824[0m
+[0mGET /users/profile [31m500[0m 6.385 ms - 1515[0m
+[0mGET /users/profile [31m500[0m 6.219 ms - 1515[0m
+[0mGET /users/profile [31m500[0m 6.306 ms - 1515[0m
+[0mGET /users/profile [31m500[0m 4.993 ms - 1515[0m
+[0mGET /users/profile [31m500[0m 5.511 ms - 1515[0m
+[0mGET /users/profile [31m500[0m 5.934 ms - 1515[0m
+[0mGET /users/profile [31m500[0m 6.617 ms - 1515[0m
+[0mGET /users/profile [31m500[0m 5.223 ms - 1515[0m
+[0mGET /users/profile [32m200[0m 6.756 ms - 4207[0m
+[0mGET /users/profile [32m200[0m 13.981 ms - 4212[0m
+[0mGET /users/profile [32m200[0m 13.862 ms - 4208[0m
+[0mGET /users/profile/details/userDetails [31m500[0m 12.178 ms - 2824[0m
+[0mGET /users/profile/details/userDetails [32m200[0m 5.835 ms - 5668[0m
+[0mGET /users/profile/details/userDetails [32m200[0m 9.386 ms - 5671[0m
+[0mPOST /users/profile/details/updateUser [36m302[0m 6.991 ms - 154[0m
+[0mGET /users/profile/details/userDetails [36m304[0m 5.551 ms - -[0m
+[0mPOST /users/profile/details/updateUser [36m302[0m 6.237 ms - 154[0m
+[0mGET /users/profile/details/userDetails [36m304[0m 4.411 ms - -[0m
+[0mPOST /users/profile/details/updateUser [36m302[0m 6.970 ms - 154[0m
+[0mGET /users/profile/details/userDetails [36m304[0m 5.650 ms - -[0m
+[0mPOST /users/profile/details/updateUser [36m302[0m 5.975 ms - 154[0m
+[0mGET /users/profile/details/userDetails [36m304[0m 5.594 ms - -[0m
+[0mPOST /users/profile/details/updateUser [36m302[0m 5.832 ms - 154[0m
+[0mGET /users/profile/details/userDetails [36m304[0m 5.171 ms - -[0m
+[0mGET /users/profile/details/userDetails [36m304[0m 56.938 ms - -[0m
+[0mPOST /users/profile/details/updateUser [36m302[0m 28.394 ms - 72[0m
+[0mGET /users/profile [32m200[0m 18.980 ms - 4203[0m
+[0mGET /users/profile/details/userDetails [32m200[0m 15.906 ms - 5661[0m
+[0mPOST /users/profile/details/updateUser [36m302[0m 17.505 ms - 72[0m
+[0mGET /users/profile [32m200[0m 15.548 ms - 4209[0m
+[0mGET /users/profile/details/userDetails [32m200[0m 16.216 ms - 5673[0m
+[0mPOST /users/profile/details/updateUser [36m302[0m 9.336 ms - 72[0m
+[0mGET /users/profile [36m304[0m 11.693 ms - -[0m
+[0mGET / [36m304[0m 10.919 ms - -[0m
+[0mGET /users/sign-up [36m302[0m 6.636 ms - 100[0m
+[0mGET /users/profile/details/phone [36m302[0m 3.954 ms - 98[0m
+[0mGET /users/profile/details/room [36m302[0m 3.137 ms - 72[0m
+[0mGET /users/profile [36m304[0m 5.741 ms - -[0m
+[0mGET /users/profile/details/userDetails [36m304[0m 7.113 ms - -[0m
+[0mPOST /users/profile/details/updateUser [36m302[0m 7.994 ms - 72[0m
+[0mGET /users/profile [36m304[0m 8.293 ms - -[0m
+[0mGET / [36m304[0m 10.959 ms - -[0m
+[0mGET /users/log-in [36m302[0m 5.291 ms - 100[0m
+[0mGET /users/profile/details/phone [36m302[0m 3.177 ms - 98[0m
+[0mGET /users/profile/details/room [36m302[0m 3.938 ms - 72[0m
+[0mGET /users/profile [36m304[0m 6.575 ms - -[0m
+[0mGET /users/profile [36m304[0m 15.785 ms - -[0m
+[0mGET /users/profile [36m304[0m 15.643 ms - -[0m
+[0mGET /users/profile [36m304[0m 13.341 ms - -[0m
+[0mGET /users/logout [36m302[0m 10.725 ms - 46[0m
+[0mGET / [36m304[0m 9.294 ms - -[0m
+[0mGET /users/log-in [32m200[0m 11.290 ms - 5017[0m
+[0mPOST /users/create-session [36m302[0m 51.731 ms - 100[0m
+[0mGET /users/profile/details/phone [36m302[0m 8.168 ms - 98[0m
+[0mGET /users/profile/details/room [32m200[0m 11.923 ms - 5337[0m
+[0mPOST /users/profile/details/updateRoom [36m302[0m 15.614 ms - 72[0m
+[0mGET /users/profile [32m200[0m 14.132 ms - 4859[0m
+[0mGET /users/logout [36m302[0m 10.989 ms - 46[0m
+[0mGET / [36m304[0m 6.227 ms - -[0m
+[0mGET /users/log-in [36m304[0m 10.589 ms - -[0m
+[0mPOST /users/create-session [36m302[0m 17.685 ms - 100[0m
+[0mGET /users/profile/details/phone [36m302[0m 10.979 ms - 98[0m
+[0mGET /users/profile/details/room [32m200[0m 20.684 ms - 5329[0m
+[0mPOST /users/profile/details/updateRoom [36m302[0m 12.850 ms - 72[0m
+[0mGET /users/profile [32m200[0m 11.648 ms - 5490[0m
+[0mGET /users/logout [36m302[0m 9.070 ms - 46[0m
+[0mGET / [36m304[0m 10.152 ms - -[0m
+[0mGET /users/sign-up [32m200[0m 15.695 ms - 5475[0m
+[0mGET /users/sign-up [32m200[0m 8.326 ms - 5412[0m
+[0mPOST /users/create [36m302[0m 30.058 ms - 70[0m
+[0mGET /users/log-in [36m304[0m 5.879 ms - -[0m
+[0mPOST /users/create-session [36m302[0m 9.034 ms - 100[0m
+[0mGET /users/profile/details/phone [32m200[0m 16.109 ms - 4973[0m
+[0mPOST /users/profile/details/updatePhone [36m302[0m 17.099 ms - 98[0m
+[0mGET /users/profile/details/room [32m200[0m 9.340 ms - 5335[0m
+[0mGET /users/profile/details/room [32m200[0m 11.905 ms - 5328[0m
+[0mGET /users/profile/details/room [32m200[0m 11.287 ms - 5335[0m
+[0mGET /users/profile/details/room [36m304[0m 10.815 ms - -[0m
+[0mGET /users/profile/details/room [32m200[0m 14.991 ms - 5328[0m
+[0mPOST /users/profile/details/updateRoom [36m302[0m 12.234 ms - 72[0m
+[0mGET /users/profile [32m200[0m 13.208 ms - 6139[0m
+[0mGET /users/profile/details/userDetails [32m200[0m 11.490 ms - 5677[0m
+[0mPOST /users/profile/details/updateUser [36m302[0m 11.674 ms - 72[0m
+[0mGET /users/profile [32m200[0m 11.246 ms - 6139[0m
+[0mGET / [36m304[0m 20.063 ms - -[0m
+[0mGET / [36m304[0m 14.356 ms - -[0m
+[0mGET / [32m200[0m 13.689 ms - 4004[0m
+[0mGET / [32m200[0m 10.225 ms - 4004[0m
+[0mGET / [36m304[0m 12.604 ms - -[0m
+[0mGET /users/sign-up [36m302[0m 8.252 ms - 100[0m
+[0mGET /users/profile/details/phone [36m302[0m 5.964 ms - 98[0m
+[0mGET /users/profile/details/room [36m302[0m 5.650 ms - 72[0m
+[0mGET /users/profile [32m200[0m 15.312 ms - 5993[0m
+[0mGET /users/profile/details/userDetails [32m200[0m 13.295 ms - 5535[0m
+[0mGET /users/profile/details/userDetails [36m304[0m 34.595 ms - -[0m
+[0mPOST /users/profile/details/updateUser [36m302[0m 46.865 ms - 72[0m
+[0mGET /users/profile [36m304[0m 41.530 ms - -[0m
+[0mGET /users/logout [36m302[0m 30.237 ms - 46[0m
+[0mGET / [36m304[0m 20.293 ms - -[0m
+[0mGET /users/sign-up [32m200[0m 36.674 ms - 5266[0m
+[0mPOST /users/create [36m302[0m 50.328 ms - 70[0m
+[0mGET /users/log-in [32m200[0m 27.488 ms - 4871[0m
+[0mPOST /users/create-session [36m302[0m 34.959 ms - 100[0m
+[0mGET /users/profile/details/phone [32m200[0m 33.566 ms - 4826[0m
+[0mPOST /users/profile/details/updatePhone [36m302[0m 39.666 ms - 98[0m
+[0mGET /users/profile/details/room [32m200[0m 35.988 ms - 5181[0m
+[0mPOST /users/profile/details/updateRoom [36m302[0m 43.192 ms - 72[0m
+[0mGET /users/profile [32m200[0m 51.867 ms - 4061[0m
+[0mGET /users/profile [36m304[0m 61.575 ms - -[0m
+[0mGET /users/profile/details/userDetails [32m200[0m 50.874 ms - 5520[0m
+[0mPOST /users/profile/details/updateUser [36m302[0m 41.032 ms - 72[0m
+[0mGET /users/profile [32m200[0m 65.915 ms - 4067[0m
+[0mGET /users/profile/details/userDetails [32m200[0m 43.381 ms - 5532[0m
+[0mPOST /users/profile/details/updateUser [36m302[0m 39.524 ms - 72[0m
+[0mGET /users/profile [32m200[0m 43.136 ms - 6635[0m
+[0mGET /users/logout [36m302[0m 25.885 ms - 46[0m
+[0mGET / [36m304[0m 23.207 ms - -[0m
+[0mGET /users/logout [36m302[0m 3.471 ms - 46[0m
+[0mGET / [36m304[0m 3.754 ms - -[0m
+[0mGET /users/sign-up [36m304[0m 3.070 ms - -[0m
+[0mPOST /users/create [36m302[0m 6.004 ms - 70[0m
+[0mGET /users/log-in [36m304[0m 4.357 ms - -[0m
+[0mPOST /users/create-session [36m302[0m 6.045 ms - 100[0m
+[0mGET /users/profile/details/phone [32m200[0m 5.224 ms - 4817[0m
+[0mGET /users/profile/details/userDetails [36m302[0m 5.269 ms - 72[0m
+[0mGET /users/profile [36m302[0m 3.820 ms - 100[0m
+[0mGET /users/profile/details/phone [36m304[0m 4.031 ms - -[0m
+[0mGET /users/profile/details/userDetails [36m302[0m 5.308 ms - 72[0m
+[0mGET /users/profile [36m302[0m 3.753 ms - 100[0m
+[0mGET /users/profile/details/phone [36m304[0m 4.739 ms - -[0m
+[0mGET /users/profile/details/userDetails [36m302[0m 5.288 ms - 72[0m
+[0mGET /users/profile [36m302[0m 2.686 ms - 100[0m
+[0mGET /users/profile/details/phone [36m304[0m 5.069 ms - -[0m
+[0mPOST /users/profile/details/updatePhone [36m302[0m 6.949 ms - 98[0m
+[0mGET /users/profile/details/room [32m200[0m 3.905 ms - 5172[0m
+[0mGET /users/profile/details/userDetails [36m302[0m 4.628 ms - 72[0m
+[0mGET /users/profile [36m302[0m 4.133 ms - 100[0m
+[0mGET /users/profile/details/phone [36m302[0m 2.725 ms - 98[0m
+[0mGET /users/profile/details/room [36m304[0m 4.971 ms - -[0m
+[0mGET /users/profile/details/userDetails [36m302[0m 2.986 ms - 72[0m
+[0mGET /users/profile [36m302[0m 4.053 ms - 100[0m
+[0mGET /users/profile/details/phone [36m302[0m 2.673 ms - 98[0m
+[0mGET /users/profile/details/room [36m304[0m 4.490 ms - -[0m
+[0mPOST /users/profile/details/updateRoom [36m302[0m 6.330 ms - 72[0m
+[0mGET /users/profile [32m200[0m 6.240 ms - 7257[0m
+[0mGET / [32m200[0m 27.712 ms - 4018[0m
+[0mGET / [36m304[0m 26.563 ms - -[0m
+[0mGET / [36m304[0m 6.722 ms - -[0m
+[0mGET /users/sign-up [36m302[0m 6.295 ms - 100[0m
+[0mGET /users/profile/details/phone [31m500[0m 4.902 ms - 1729[0m
+[0mGET /users/profile/details/phone [36m302[0m 18.581 ms - 98[0m
+[0mGET /users/profile/details/room [36m302[0m 4.614 ms - 72[0m
+[0mGET /users/profile [32m200[0m 17.966 ms - 7294[0m
+[0mGET /users/profile [32m200[0m 29.672 ms - 7271[0m
+[0mGET / [36m304[0m 25.604 ms - -[0m
+[0mGET / [36m304[0m 25.463 ms - -[0m
+[0mGET / [36m304[0m 26.716 ms - -[0m
+[0mGET / [36m304[0m 26.409 ms - -[0m
+[0mGET / [31m500[0m 12.117 ms - 2981[0m
+[0mGET / [32m200[0m 7.795 ms - 4018[0m
+[0mGET / [36m304[0m 5.985 ms - -[0m
+[0mGET / [31m500[0m 7.292 ms - 2970[0m
+[0mGET / [32m200[0m 7.538 ms - 4018[0m
+[0mGET /users/log-in [36m302[0m 7.840 ms - 100[0m
+[0mGET /users/profile/details/phone [36m302[0m 4.170 ms - 98[0m
+[0mGET /users/profile/details/room [36m302[0m 3.981 ms - 72[0m
+[0mGET /users/profile [36m304[0m 8.741 ms - -[0m
+[0mGET / [36m304[0m 6.909 ms - -[0m
+[0mGET / [32m200[0m 7.302 ms - 4034[0m
+[0mGET / [32m200[0m 6.030 ms - 4019[0m
+[0mGET / [36m304[0m 5.704 ms - -[0m
+[0mGET / [31m500[0m 6.990 ms - 3006[0m
+[0mGET / [32m200[0m 8.008 ms - 4019[0m
+[0mGET / [31m500[0m 19.471 ms - 1668[0m
+[0mGET / [31m500[0m 8.242 ms - 1668[0m
+[0mGET / [31m500[0m 5.907 ms - 1668[0m
+[0mGET / [31m500[0m 4.487 ms - 1668[0m
+[0mGET / [31m500[0m 4.953 ms - 1668[0m
+[0mGET / [31m500[0m 34.614 ms - 2971[0m
+[0mGET / [31m500[0m 9.107 ms - 2971[0m
+[0mGET / [32m200[0m 10.482 ms - 4017[0m
+[0mGET / [32m200[0m 8.197 ms - 4029[0m
+[0mGET / [32m200[0m 27.471 ms - 4018[0m
+[0mGET / [36m304[0m 26.803 ms - -[0m
+[0mGET / [36m304[0m 27.295 ms - -[0m
+[0mGET / [36m304[0m 10.335 ms - -[0m
+[0mGET / [36m304[0m 27.048 ms - -[0m
+[0mGET / [36m304[0m 27.166 ms - -[0m
+[0mGET / [32m200[0m 26.426 ms - 4020[0m
+[0mGET / [32m200[0m 11.053 ms - 4021[0m
+[0mGET / [36m304[0m 81.516 ms - -[0m
+[0mGET /users/log-in [31m500[0m 146.559 ms - 2974[0m
+[0mGET /users/log-in [32m200[0m 8.140 ms - 4884[0m
+[0mGET /users/sign-up [32m200[0m 29.427 ms - 5279[0m
+[0mGET /users/log-in [36m304[0m 6.882 ms - -[0m
+[0mPOST /users/create-session [36m302[0m 226.202 ms - 70[0m
+[0mGET /users/log-in [36m304[0m 9.192 ms - -[0m
+[0mGET /users/sign-up [36m304[0m 7.850 ms - -[0m
+[0mGET /users/log-in [36m304[0m 8.117 ms - -[0m
+[0mPOST /users/create-session [36m302[0m 157.721 ms - 72[0m
+[0mGET /users/sign-up [36m304[0m 48.561 ms - -[0m
+[0mGET /users/sign-up [36m304[0m 27.691 ms - -[0m
+[0mPOST /users/create [36m302[0m 417.396 ms - 70[0m
+[0mGET /users/log-in [36m304[0m 11.997 ms - -[0m
+[0mPOST /users/create-session [36m302[0m 254.350 ms - 100[0m
+[0mGET /users/profile/details/phone [32m200[0m 158.606 ms - 4833[0m
+[0mPOST /users/profile/details/updatePhone [36m302[0m 269.495 ms - 98[0m
+[0mGET /users/profile/details/room [32m200[0m 294.364 ms - 5188[0m
+[0mPOST /users/profile/details/updateRoom [36m302[0m 379.243 ms - 72[0m
+[0mGET /users/profile [32m200[0m 327.394 ms - 4062[0m
+[0mGET /users/profile/details/userDetails [32m200[0m 218.118 ms - 5511[0m
+[0mPOST /users/profile/details/updateUser [36m302[0m 285.045 ms - 72[0m
+[0mGET /users/profile [36m304[0m 277.738 ms - -[0m
+[0mGET / [32m200[0m 128.308 ms - 4085[0m
+[0mGET / [32m200[0m 119.970 ms - 4088[0m
+[0mGET / [32m200[0m 125.368 ms - 4081[0m
+[0mGET / [32m200[0m 114.249 ms - 4085[0m

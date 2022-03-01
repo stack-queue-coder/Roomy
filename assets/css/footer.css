@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;700&family=Satisfy&display=swap");
+.bg1 {
+  background-color: black;
+  color: #2bff00;
+  line-height: 8vh;
+  width: 100%; }
+  .bg1 a {
+    text-decoration: none;
+    color: #2bff00; }

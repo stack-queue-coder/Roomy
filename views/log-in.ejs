@@ -1,0 +1,37 @@
+
+    <!-- <form action="/users/create-session" method="post">
+        <input type="text" name="email" placeholder="Email">
+        <input type="password" name="password" placeholder="Password">
+        <input type="submit" value="Login">
+    </form> -->
+<link rel="stylesheet" href="<%= assetPath('css/sign-up_log-in.css')%>">
+    <div class="sign_up">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-10 mx-auto">
+                    <div class="descp">
+                        <div>
+                            <h2>Welcome Back to <span>Roomy's</span></h2>
+                        </div>        
+                    </div>
+                </div>  
+                <div class="col-lg-6 col-12 mx-auto main_div login">
+                    <!-- <div class="main_div"> -->
+                    <div class="card signup_form py-3">
+                        <p class="text-center my-3 text-capitalize">Log In Form</p>
+                            <form class="myform" action="/users/create-session" method="post">
+
+                                <div class="mb-3"><input type="email" name="email" class="form-control" placeholder="Email address" required></div>
+                                
+                                <div class="mb-3"><input type="password" name="password" class="form-control" placeholder="Password" required></div>                            
+                                                                
+                                <div class="submit_btn"><input type="submit" value="Log In"></div>
+
+                            </form>
+                    </div>
+                    <!-- </div> -->
+                </div>
+                    
+            </div>
+        </div>
+    </div>

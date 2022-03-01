@@ -1,0 +1,97 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;700&family=Satisfy&display=swap");
+.sign_up {
+  margin: 0%;
+  padding: 0%;
+  background-color: #6e014e; }
+  .sign_up .main_div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: "row";
+    height: 100vh; }
+    .sign_up .main_div .signup_form {
+      width: 80%;
+      border: none;
+      border-top: 5px solid #2bff00;
+      background: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)) #6e014e;
+      color: white; }
+      .sign_up .main_div .signup_form p {
+        font-weight: bold;
+        font-size: 1.5em; }
+      .sign_up .main_div .signup_form .myform {
+        padding: 0 25px 0 25px; }
+        .sign_up .main_div .signup_form .myform .form-control {
+          border: 1px solid #2bff00;
+          border-radius: 0.2rem;
+          color: white;
+          background: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)) #6e014e;
+          margin-bottom: 2rem;
+          letter-spacing: 0.1rem; }
+        .sign_up .main_div .signup_form .myform .form-control:focus {
+          color: white; }
+      .sign_up .main_div .signup_form .submit_btn {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: "row"; }
+        .sign_up .main_div .signup_form .submit_btn input {
+          padding: 0.5rem 1.8rem;
+          background-color: #2bff00;
+          line-height: 1.8rem;
+          font-size: 1rem;
+          font-weight: bold;
+          text-transform: capitalize;
+          color: white;
+          border: none;
+          box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.144);
+          transition: all 0.3s ease-in-out;
+          cursor: pointer;
+          border-radius: 2rem;
+          outline: none; }
+  .sign_up .descp {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column; }
+    .sign_up .descp .whatsapp_img {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: row;
+      height: 50vh;
+      width: 100%; }
+      .sign_up .descp .whatsapp_img img {
+        filter: drop-shadow(5px 10px 10px rgba(0, 0, 0, 0.75)); }
+    .sign_up .descp h2 {
+      color: white;
+      font-size: 2rem;
+      font-weight: bold;
+      margin-bottom: 2rem;
+      margin-left: 2rem; }
+      .sign_up .descp h2 span {
+        color: #2bff00;
+        text-transform: capitalize;
+        font-size: 3.5rem;
+        font-weight: bold; }
+    .sign_up .descp p {
+      font-size: 1rem;
+      color: white;
+      margin-bottom: 2rem;
+      margin-left: 2rem; }
+  .sign_up .profile {
+    height: 70vh; }
+
+@media (max-width: 768px) {
+  .sign_up .descp {
+    height: 50vh;
+    font-size: 1.5rem; }
+  .sign_up .signup {
+    height: 88vh; }
+  .sign_up .login {
+    height: 22vh;
+    margin-bottom: 9rem; }
+  .whatsapp_img {
+    display: none; }
+  .sign_up .profile {
+    height: 27vh; } }

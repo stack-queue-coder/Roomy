@@ -1,0 +1,23 @@
+<link rel="stylesheet" href="<%= assetPath('css/sign-up_log-in.css')%>">
+
+    <div class="sign_up">
+        <div class="container">
+            <h2 class="text-center" style="font-size:3rem; font-weight: bold; color: rgb(0,255,0); padding-top:10rem; padding-bottom: 0px;">ROOM : <%= locals.user.block %> <%= locals.user.room %></h2> 
+            <div class="row">
+    <% for ( var i =0; i < users.length; i++ ) { %>
+        
+                <div class="col-lg-3 col-12 mx-auto main_div profile">
+                    <!-- <div class="main_div"> -->
+                    <div class="card signup_form py-3">
+                        <p class="text-center my-3"><%= users[i].name %></p>
+                        <p class="text-center my-3">Batch : <%= users[i].email.slice(-21,-17) %></p>
+                        <p class="text-center my-3 text-capitalize"><a style="color: rgb(0,255,0); font-weight: bold;" href="https://wa.me/<%= users[i].phone %>" target="_blank" ><i class="fab fa-whatsapp"></i></a></p>
+
+                    </div>
+                    <!-- </div> -->
+                </div>      
+    <% } %>
+
+            </div>
+        </div>
+    </div>

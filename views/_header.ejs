@@ -1,0 +1,36 @@
+<header>
+<div class="header_main">
+        <nav class="navbar navbar-expand-lg navbar-default">
+            <div class="container">
+                <a class="navbar-brand" href="/">
+                    <img src="<%= assetPath('images/roomy-icon.png') %>" alt="roomy" width="200" height="40">
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon "></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="/">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Contribute</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Total Registrations:</a>
+                        </li>
+                    </ul>
+                    <% if (locals.user) {%>
+                        <a href="/users/profile/details/userDetails" class="my-btn"><%= user.name %> <i class="fa-regular fa-pen-to-square"></i></a>
+                        <a href="/users/logout" class="my-btn">Logout</a>
+            
+                    <% }else { %>
+                        <a href="/users/sign-up"><button class="btn my-btn btn-outline-success" type="submit">Sign Up</button></a>
+                        <a href="/users/log-in"><button class="btn my-btn btn-outline-success" type="submit">Log In</button></a>
+                    <% } %>
+                    
+                </div>
+            </div>
+        </nav>  
+</div>
+</header>

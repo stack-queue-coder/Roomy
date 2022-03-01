@@ -1,0 +1,14 @@
+@import '../scss/var';
+@import '../scss/vendor';
+@import '../scss/mixin';
+
+.bg1{
+    background-color: black;
+    color: $primary-color;
+    line-height: 8vh;
+    width: 100%;
+    & a{
+        text-decoration: none;
+        color: $primary-color;
+    }
+}

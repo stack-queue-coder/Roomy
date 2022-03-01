@@ -1,0 +1,42 @@
+    <!-- <form action="/users/profile/details/updateRoom" method="post">
+        <select name="block" required>
+            <option value="A">A</option>
+            <option value="B-boys">B-Boys</option>
+            <option value="B-girls">B-Girls</option>
+            <option value="C">C</option>
+        </select>
+        <input type="text" name="room_number" placeholder="room number" required>
+        <input type="submit" value="Submit">
+    </form> -->
+    <link rel="stylesheet" href="<%= assetPath('css/sign-up_log-in.css')%>">
+
+    <div class="sign_up">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-12 mx-auto main_div">
+                    <!-- <div class="main_div"> -->
+                    <div class="card signup_form py-3">
+                        <p class="text-center my-3 text-capitalize">Fill Room Details</p>
+                            <form class="myform" action="/users/profile/details/updateRoom" method="post">
+                                <div class="mb-3">
+                                    <select class="form-control" name="block" required>
+                                        <option hidden value="default">Select Block</option>
+                                        <option value="A">A</option>
+                                        <option value="Boys-B">Boys-B</option>
+                                        <option value="Girls-B">Girls-B</option>
+                                        <option value="C">C</option>
+                                    </select>
+                                </div>
+                                <div class="mb-3"><input type="number" name="room_number" class="form-control" placeholder="Room Number" required></div>
+    
+                                <div class="submit_btn"><input type="submit" value="Meet yo roomy's"></div>
+                            </form>
+                    </div>
+                    <!-- </div> -->
+                </div>
+                <div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
