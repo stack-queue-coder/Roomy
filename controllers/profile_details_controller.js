@@ -3,7 +3,7 @@ const passport = require('passport');
 module.exports.phone = function(req, res){
     passport.setAuthenticatedUser(req, res);
     if(req.user.phone == null){
-        return res.render('Phone', {
+        return res.render('phone', {
             title: 'Roomy | Phone',
         })
     }
@@ -13,7 +13,7 @@ module.exports.phone = function(req, res){
 module.exports.room = function(req, res){
     passport.setAuthenticatedUser(req, res);
     if(req.user.room == null){
-        return res.render('Room', {
+        return res.render('room', {
             title: 'Roomy | Room'
         })
     }
