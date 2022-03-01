@@ -52,17 +52,11 @@
     height: 100vh;
     display: flex;
     justify-content: center;
-    align-items: flex-start;
+    align-items: center;
     flex-direction: column; }
     .sign_up .descp .whatsapp_img {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      flex-direction: row;
-      height: 50vh;
-      width: 100%; }
-      .sign_up .descp .whatsapp_img img {
-        filter: drop-shadow(5px 10px 10px rgba(0, 0, 0, 0.75)); }
+      width: 20%;
+      filter: drop-shadow(5px 10px 10px rgba(0, 0, 0, 0.75)); }
     .sign_up .descp h2 {
       color: white;
       font-size: 2rem;
@@ -87,11 +81,13 @@
     height: 50vh;
     font-size: 1.5rem; }
   .sign_up .signup {
-    height: 88vh; }
+    height: 85vh; }
   .sign_up .login {
     height: 22vh;
     margin-bottom: 9rem; }
   .whatsapp_img {
     display: none; }
   .sign_up .profile {
-    height: 27vh; } }
+    height: 60vh; }
+  .sign_up .phone {
+    height: 49vh; } }

@@ -1116,3 +1116,62 @@
 [0mGET / [32m200[0m 119.970 ms - 4088[0m
 [0mGET / [32m200[0m 125.368 ms - 4081[0m
 [0mGET / [32m200[0m 114.249 ms - 4085[0m
+::1 - - [01/Mar/2022:12:48:29 +0000] "GET / HTTP/1.1" 200 4142 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [01/Mar/2022:12:48:30 +0000] "GET /undefined HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [01/Mar/2022:12:50:08 +0000] "GET /users/log-in HTTP/1.1" 200 4998 "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [01/Mar/2022:12:50:12 +0000] "GET /users/sign-up HTTP/1.1" 200 5393 "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [01/Mar/2022:12:50:22 +0000] "POST /users/create HTTP/1.1" 302 114 "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [01/Mar/2022:12:50:22 +0000] "GET /users/sign-up HTTP/1.1" 304 - "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [01/Mar/2022:12:50:26 +0000] "GET /users/log-in HTTP/1.1" 304 - "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [01/Mar/2022:12:50:32 +0000] "POST /users/create-session HTTP/1.1" 302 70 "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [01/Mar/2022:12:50:32 +0000] "GET /users/log-in HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [01/Mar/2022:12:50:36 +0000] "POST /users/create-session HTTP/1.1" 302 100 "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [01/Mar/2022:12:50:36 +0000] "GET /users/profile/details/phone HTTP/1.1" 302 98 "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [01/Mar/2022:12:50:36 +0000] "GET /users/profile/details/room HTTP/1.1" 302 72 "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [01/Mar/2022:12:50:37 +0000] "GET /users/profile HTTP/1.1" 200 4176 "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [01/Mar/2022:12:52:33 +0000] "GET /users/profile HTTP/1.1" 200 4196 "http://localhost:8880/users/log-in" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [01/Mar/2022:12:52:33 +0000] "GET /css/sign-up_log-in-52899c9021.css HTTP/1.1" 404 14 "http://localhost:8880/users/profile" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [01/Mar/2022:12:53:09 +0000] "GET / HTTP/1.1" 200 4162 "http://localhost:8880/users/profile" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [01/Mar/2022:12:53:10 +0000] "GET /css/home-5bb51e6882.css HTTP/1.1" 404 14 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [01/Mar/2022:12:53:18 +0000] "GET /users/log-in HTTP/1.1" 302 100 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [01/Mar/2022:12:53:19 +0000] "GET /users/profile/details/phone HTTP/1.1" 302 98 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [01/Mar/2022:12:53:19 +0000] "GET /users/profile/details/room HTTP/1.1" 302 72 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [01/Mar/2022:12:53:19 +0000] "GET /users/profile HTTP/1.1" 304 - "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [01/Mar/2022:12:53:20 +0000] "GET /css/sign-up_log-in-52899c9021.css HTTP/1.1" 404 14 "http://localhost:8880/users/profile" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [01/Mar/2022:12:54:52 +0000] "GET /users/profile HTTP/1.1" 304 - "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [01/Mar/2022:12:54:52 +0000] "GET /css/sign-up_log-in-52899c9021.css HTTP/1.1" 404 14 "http://localhost:8880/users/profile" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [01/Mar/2022:12:54:53 +0000] "GET /users/profile HTTP/1.1" 304 - "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [01/Mar/2022:12:54:53 +0000] "GET /css/sign-up_log-in-52899c9021.css HTTP/1.1" 404 14 "http://localhost:8880/users/profile" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [01/Mar/2022:13:44:34 +0000] "GET /users/profile HTTP/1.1" 304 - "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [01/Mar/2022:13:44:35 +0000] "GET /css/sign-up_log-in-52899c9021.css HTTP/1.1" 404 14 "http://localhost:8880/users/profile" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [01/Mar/2022:13:47:01 +0000] "GET /users/profile HTTP/1.1" 200 4196 "http://localhost:8880/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [01/Mar/2022:13:47:20 +0000] "GET / HTTP/1.1" 200 4162 "http://localhost:8880/users/profile" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+[0mGET /users/log-in [32m200[0m 789.343 ms - 4952[0m
+[0mPOST /users/create-session [36m302[0m 330.588 ms - 100[0m
+[0mGET /users/profile/details/phone [36m302[0m 103.894 ms - 98[0m
+[0mGET /users/profile/details/room [36m302[0m 119.643 ms - 72[0m
+[0mGET /users/profile [32m200[0m 234.905 ms - 4130[0m
+[0mGET /users/profile [36m304[0m 225.421 ms - -[0m
+[0mGET /users/profile [36m304[0m 213.534 ms - -[0m
+[0mGET /users/profile [36m304[0m 187.602 ms - -[0m
+[0mGET /users/profile [36m304[0m 199.826 ms - -[0m
+[0mGET /users/profile [36m304[0m 208.079 ms - -[0m
+[0mGET /users/profile [36m304[0m 292.712 ms - -[0m
+::1 - - [01/Mar/2022:14:05:07 +0000] "GET /users/profile HTTP/1.1" 302 70 "http://localhost:8880/users/log-in" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [01/Mar/2022:14:05:07 +0000] "GET /users/log-in HTTP/1.1" 200 5018 "http://localhost:8880/users/log-in" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"
+::1 - - [01/Mar/2022:14:05:11 +0000] "GET /users/sign-up HTTP/1.1" 200 5413 "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [01/Mar/2022:14:05:12 +0000] "GET /users/log-in HTTP/1.1" 304 - "http://localhost:8880/users/sign-up" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [01/Mar/2022:14:05:14 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [01/Mar/2022:14:05:38 +0000] "GET /users/log-in HTTP/1.1" 304 - "http://localhost:8880/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [01/Mar/2022:14:05:42 +0000] "POST /users/create-session HTTP/1.1" 302 100 "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [01/Mar/2022:14:05:42 +0000] "GET /users/profile/details/phone HTTP/1.1" 302 98 "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [01/Mar/2022:14:05:42 +0000] "GET /users/profile/details/room HTTP/1.1" 302 72 "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [01/Mar/2022:14:05:42 +0000] "GET /users/profile HTTP/1.1" 200 4196 "http://localhost:8880/users/log-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [01/Mar/2022:14:05:47 +0000] "GET /users/logout HTTP/1.1" 302 46 "http://localhost:8880/users/profile" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+::1 - - [01/Mar/2022:14:05:47 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8880/users/profile" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+[0mGET / [32m200[0m 13.577 ms - 4085[0m
+[0mGET /users/log-in [32m200[0m 4.974 ms - 4952[0m
+[0mPOST /users/create-session [36m302[0m 244.868 ms - 100[0m
+[0mGET /users/profile/details/phone [36m302[0m 108.784 ms - 98[0m
+[0mGET /users/profile/details/room [36m302[0m 118.164 ms - 72[0m
+[0mGET /users/profile [32m200[0m 211.052 ms - 4130[0m

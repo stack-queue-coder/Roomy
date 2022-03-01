@@ -6,7 +6,7 @@ const app = express();
 
 require('./config/view-helpers')(app);
 
-const port = 8880;
+const port = process.env.PORT || 8880;
 const expressLayouts = require('express-ejs-layouts');
 const db = require('./config/mongoose');
 
