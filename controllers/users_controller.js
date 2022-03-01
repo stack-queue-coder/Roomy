@@ -8,7 +8,7 @@ module.exports.profile = function(req, res){
     User.find({room: req.user.room}, (err, users) => {
         if(err){console.log('Error in finding the user in profile');return;}
         // console.log(users);
-        return res.render('Profile', {
+        return res.render('profile', {
             title: 'Roomy | Profile',
             users: users,
         })
@@ -16,13 +16,13 @@ module.exports.profile = function(req, res){
 }
 
 module.exports.signUp = function(req, res){
-    return res.render('Sign-up', {
+    return res.render('sign-up', {
         title: 'Roomy | Sign Up',
     })
 }   
 
 module.exports.logIn = function(req, res){
-    return res.render('Log-in', {
+    return res.render('log-in', {
         title: 'Roomy | Log In',
     })
 }
