@@ -1,8 +1,10 @@
 module.exports.home = (req,res)=>{
-    var cnt = 127;
-    // console.log(cnt);
-    return res.render('home',{
-        title: 'Roomy | Home',
-        total : cnt
+    User.count({}, function( err, count){
+        if (err) throw err;
+        console.log( "Number of users:", count );
+        res.locals.cnt = count;
+        return res.render('home',{
+            title: 'Roomy | Home',
+        });
     });
 }
