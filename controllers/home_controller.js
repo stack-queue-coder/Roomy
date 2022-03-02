@@ -1,3 +1,5 @@
+const User = require('../models/user');
+
 module.exports.home = (req,res)=>{
     User.count({}, function( err, count){
         if (err) throw err;
