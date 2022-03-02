@@ -56,7 +56,7 @@ app.use(session({
         maxAge: (1000 * 60 * 100)
     },
     store: MongoStore.create({
-        mongoUrl: 'mongodb://localhost/roomy_development'
+        mongoUrl: `mongodb://localhost/${env.db}`;
     },
     function(err) {
         console.log(err || 'connect-mongodb setup ok');
