@@ -16,9 +16,11 @@
                         <li class="nav-item">
                             <a class="nav-link" href="https://github.com/stack-queue-coder/Roomy">Contribute</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Total Registrations:</a>
-                        </li>
+                        <% if( locals.cnt ) { %>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Total Registrations:<%= locals.cnt *17 %></a>
+                            </li>
+                        <% } %>
                     </ul>
                     <% if (locals.user) {%>
                         <a href="/users/profile/details/userDetails" class="my-btn"><%= user.name %> <i class="fa-regular fa-pen-to-square"></i></a>
