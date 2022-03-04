@@ -5,7 +5,7 @@ module.exports.profile = function(req, res){
     if(req.user.phone == null || req.user.room == null){
         return res.redirect('/users/profile/details/phone');
     }
-    User.find({room: req.user.room}, (err, users) => {
+    User.find({room: req.user.room, block: req.user.block}, (err, users) => {
         if(err){console.log('Error in finding the user in profile');return;}
         // console.log(users);
         return res.render('profile', {
